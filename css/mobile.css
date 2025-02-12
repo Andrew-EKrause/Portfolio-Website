@@ -2040,7 +2040,7 @@ html {
     }
 
     .confirm-modal-dialog {
-        margin-top: 0px;
+        margin-top: auto;
         margin-bottom: auto;
         margin-left: 20px;
         margin-right: 20px;
